@@ -1,2 +1,2 @@
 # R-P-Sgame
-Basically rock paper scissors game
+Basic rock paper scissors game
